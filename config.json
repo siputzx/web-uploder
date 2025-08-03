@@ -1,0 +1,8 @@
+{
+    "client_id": "your-google-client-id",
+    "client_secret": "your-google-client-secret",
+    "redirect_uri": "http://localhost:3000/auth/callback",
+    "refresh_token": "your-refresh-token",
+    "folder_id": "your-google-drive-folder-id",
+    "mongo_uri": "mongodb://localhost:27017"
+}
